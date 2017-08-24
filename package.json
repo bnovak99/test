@@ -1,0 +1,23 @@
+{
+  "name": "bnovak_test",
+  "version": "1.0.0",
+  "description": "This is a test space",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnovak99/test.git"
+  },
+  "author": "Brian Novak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnovak99/test/issues"
+  },
+  "homepage": "https://github.com/bnovak99/test#readme"
+}
